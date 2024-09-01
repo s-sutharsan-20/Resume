@@ -31,7 +31,6 @@ I'm Sutharsan, currently pursuing a Bachelor's degree in Electronics and Communi
 
 - **Languages**: Python, C++, C
 - **Web Development**: HTML, CSS, JavaScript, PHP, MySQL
-- **Tools and Platforms**: Git, Linux, Visual Studio Code
 
 ## 🚀 Projects Overview
 
