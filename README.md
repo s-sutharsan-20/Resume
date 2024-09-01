@@ -1,17 +1,17 @@
-# Sutharsan's Tech Portfolio
+# Sutharsan's Resume
 
-Welcome to my personal portfolio! This repository showcases my journey as an Electronics and Communication Engineering student who is passionate about technology, web development, and programming. Below, you'll find details about the projects I've worked on, my skills, and how to connect with me.
+Welcome to my resume repository! This repository contains my professional resume, detailing my journey as an Electronics and Communication Engineering student with a strong passion for technology, web development, programming, and more.
 
-## 🌟 About Me
+## 📄 About Me
 
-I'm Sutharsan, currently pursuing my Bachelor's in Electronics and Communication Engineering at Mepco Schlenk Engineering College. I blend technology with creativity, exploring various programming languages and web development tools. I have a strong foundation in electronics and have expanded my skills into web development and programming with Python, C, and C++. I am driven to create practical solutions, whether it's coding dynamic websites or capturing compelling photographs.
+I'm Sutharsan, currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Mepco Schlenk Engineering College. My academic background is complemented by hands-on experience in programming, web development, and a keen interest in IoT and Image Processing. I strive to blend my technical skills with creativity, whether through coding dynamic web applications or exploring the intersection of hardware and software.
 
-### Interests:
+### Key Areas of Expertise:
 
-- **Programming:** Python, C, C++, Data Structures and Algorithms
-- **Web Development:** HTML, CSS, JavaScript, PHP, MySQL
-- **IoT and Embedded Systems:** Merging hardware and software skills
-- **Photography:** Blending precision with artistic expression
+- **Programming Languages**: Python, C, C++, Data Structure and Algorithms
+- **Web Development**: HTML, CSS, JavaScript, PHP, MySQL
+- **IoT and Embedded Systems**: Integrating hardware and software solutions
+- **Soft Skills**: Problem Solving, Leadership, Team Collaboration
 
 ## 📚 Education
 
@@ -27,40 +27,25 @@ I'm Sutharsan, currently pursuing my Bachelor's in Electronics and Communication
   SSLC | Grade: 91%  
   2019-2020
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Technical Skills
+- **Languages**: Python, C++, C
+- **Web Development**: HTML, CSS, JavaScript, PHP, MySQL
+- **Tools and Platforms**: Git, Linux, Visual Studio Code
 
-- **Languages:** Python, C++, C
-- **Web Development:** HTML, CSS, JavaScript, PHP, MySQL
-- **Tools:** Git, Linux, Visual Studio Code
-- **Soft Skills:** Problem Solving, Leadership, Team Collaboration
+## 🚀 Projects Overview
 
-## 🚀 Projects
+My resume includes details about various core projects and web development initiatives I have worked on, demonstrating my ability to apply my skills practically and creatively. Some highlighted projects include:
 
-### Core Projects
+- **SCR-Based Battery Charger**: Development of an efficient battery charging system using SCRs.
+- **Slotted Patch Antenna Design in HFSS**: Antenna design and simulation for enhanced communication.
+- **Captured Chronicles - Photograph Gallery**: A responsive website showcasing my photography work.
+- **Automated Engineering Admission Processing System**: A full-stack website to calculate cut-off and to allocate courses based on their preferences and cut-off.
+## 📫 How to Reach Me
 
-- **[SCR-Based Battery Charger](https://www.linkedin.com/in/ssutharsan20/details/projects/)**  
-  A project focused on developing an efficient battery charging system using SCRs (Silicon Controlled Rectifiers).
-
-- **Design of Slotted Patch Antenna in HFSS**  
-  Simulation and analysis of a slotted patch antenna using HFSS software for enhanced communication.
-
-### Web Development Projects
-
-- **[Captured Chronicles - Photograph Gallery](#)**  
-  A responsive website to showcase my photography work across various categories like nature, architecture, and more.
-
-- **Futuretech Institution - College Application Portal**  
-  A full-stack website for managing college applications and course allocations.
-
-- **MSEC - College Application Portal**  
-  A specially designed portal for the Mepco Schlenk Engineering College Expo.
-
-## 📫 Contact
-
-- **Email:** s.sutharsan.201104@gmail.com
-- **Location:** Madurai, Tamil Nadu, India
+- **Email**: [s.sutharsan.201104@gmail.com](mailto:s.sutharsan.201104@gmail.com)
+- **Phone**: +91-6380657002
+- **Location**: Madurai, Tamil Nadu, India
 
 ### Connect with Me:
 
@@ -69,17 +54,9 @@ I'm Sutharsan, currently pursuing my Bachelor's in Electronics and Communication
 - [Instagram](https://www.instagram.com/s.sutharsan.20)
 - [Twitter](https://www.twitter.com/engg_techie)
 
-## ⚡ Quick Links
-
-- [Home](#)
-- [About](#about)
-- [Projects](#project)
-- [Contact](#contact)
-
-## 📜 License
-
-This portfolio is created by Sutharsan and is for showcasing personal projects and skills. Feel free to explore and get in touch for collaborations!
+  
+This resume is intended for professional purposes and sharing with potential employers and collaborators. For any specific inquiries or requests, please contact me directly via email.
 
 ---
 
-Thank you for visiting my portfolio! Let's connect and collaborate on exciting coding adventures!
+Thank you for visiting my resume repository! I look forward to connecting and exploring potential opportunities for collaboration or employment.
